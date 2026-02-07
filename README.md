@@ -17,7 +17,7 @@ Data residency: GitHub (US/EU) + Local machine (Chongqing)
 - 100% free-tier tools (UE5, GitHub Public Repo, Qwen Chat)  
 - No paid plugins/assets — Starter Content only 
 
-## 🐞 IMPORTANT NOTICE
+## ⚠️ IMPORTANT NOTICE
 
 Autonomous bug ecosystem simulation in Unreal Engine 5.3.2. bugsarefree ethos: zero-cost, card-free workflow. GitHub-native development. Global distribution compliant — resuming from England on 28 Feb 2026.
 
