@@ -1,0 +1,29 @@
+# UE5 bugsarefree .gitignore — card-free optimized
+# Keeps repo <50MB | No binaries | No secrets
+
+# ESSENTIAL EXCLUDES
+Binaries/
+Intermediate/
+Saved/
+DerivedDataCache/
+Build/
+
+# OS / EDITOR ARTIFACTS
+.vs/
+.vscode/
+*.sln
+*.suo
+*.opensdf
+*.ipdb
+*.pdb
+
+# UE5 PROJECT FILES (KEEP THESE)
+*.uproject
+Config/
+Content/
+Source/          # Optional: include if using C++ later
+Plugins/          # Optional: include custom plugins only
+
+# SECURITY
+*.ini            # EXCEPT DefaultEngine.ini / DefaultGame.ini (keep those!)
+*.log
